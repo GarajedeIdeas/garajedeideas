@@ -1,6 +1,4 @@
-## 👋 Hola, somos [Garaje de 
-
-ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 
+## 👋 Hola, somos [Garaje de ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 
 Conoce cómo trabajamos los proyectos de tecnología y diseño
 [Case Study](https://garajedeideas.com/proyectos/adeslas/)
 
