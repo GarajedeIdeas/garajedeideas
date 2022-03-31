@@ -10,7 +10,7 @@ Conoce cómo trabajamos los proyectos de tecnología y diseño
 
 ### 🚀 Live Coding
 ```
-An afterwork for code lovers. live.
+An afterwork for code lovers. 
 
 Sesiones de código en vivo para compartir las últimas tendencias en tecnología. 
 
