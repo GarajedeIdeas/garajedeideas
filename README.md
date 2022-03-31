@@ -1,17 +1,13 @@
 ![Banner](./images/banner.gif)
 
-### Hola, somos [Garaje de ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 👋
-```
+## Hola, somos [Garaje de ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 👋
 Conoce cómo trabajamos los proyectos de tecnología y diseño
 [Case Study](https://garajedeideas.com/proyectos/adeslas/)
-```
 
-### 👉 ¡En Garaje no paramos de crecer! Únete al equipo:
-https://bit.ly/garaje-talento
 
 ## 📺 Conoce nuestros eventos para developpers
 
-### [Live Coding] 🚀
+### Live Coding 🚀
 ```
 An afterwork for code lovers. live.
 
@@ -32,6 +28,8 @@ Pildoras de contenido en castellano para developers en Youtube.
 
 ### Y si quieres más... [suscríbete a nuestro canal](https://www.youtube.com/channel/UC2VAkhXrEjlpBqDRMeIKJnA?sub_confirmation=1)
 
+
+## 👉 ¡En Garaje no paramos de crecer! [Únete al equipo:](https://bit.ly/garaje-talento)
 
 ## 📫 Contacta con nosotros
 
