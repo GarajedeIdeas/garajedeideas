@@ -6,7 +6,7 @@ Conoce cómo trabajamos los proyectos de tecnología y diseño
 -> [Case Study](https://garajedeideas.com/proyectos/adeslas/)
 
 
-## 📺 Echa un vistazo a nuestros eventos para developpers
+## 📺 Echa un vistazo a nuestros eventos para entusiastas de la tecnología!
 
 ### 🚀 Live Coding
 ```
