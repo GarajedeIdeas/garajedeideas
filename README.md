@@ -32,4 +32,9 @@ Pildoras de contenido en castellano para developers en Youtube.
 
 ## 👉 ¡En Garaje no paramos de crecer! [Únete al equipo](https://bit.ly/garaje-talento)
 
-## 📫 Contacta con nosotros
+## 📫 Conoce más de Garaje
+https://www.linkedin.com/company/2629927/admin/
+https://www.instagram.com/garaje_de_ideas/
+https://twitter.com/garajedeideas
+https://www.twitch.tv/garajedeideas
+
