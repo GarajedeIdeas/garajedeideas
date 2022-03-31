@@ -1,12 +1,12 @@
 ![Banner](https://user-images.githubusercontent.com/82031166/161051918-e7c7c11f-49f1-4b39-aef0-30033c451636.gif)
 
 
-## 👋 Hola, somos [Garaje de ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 
+## 👋 Hola, somos [Garaje de ideas,](www.garajedeideas.com) una agencia de tecnología, diseño y data 
 Conoce cómo trabajamos los proyectos de tecnología y diseño
-[Case Study](https://garajedeideas.com/proyectos/adeslas/)
+-> [Case Study](https://garajedeideas.com/proyectos/adeslas/)
 
 
-## 📺 Conoce nuestros eventos para developpers
+## 📺 Echa un vistazo a nuestros eventos para developpers
 
 ### 🚀 Live Coding
 ```
@@ -17,7 +17,7 @@ Sesiones de código en vivo para compartir las últimas tendencias en tecnologí
 Los miércoles cada dos semanas a las 19h ES - 15h AR.
 ```
 
-Echa un vistazo a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
+Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
 
 ### 💊 Code Pills
 ```
