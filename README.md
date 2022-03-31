@@ -1,6 +1,13 @@
-![Banner](./images/banner.gif)
+![Banner](https://user-images.githubusercontent.com/82031166/161048177-af2be67d-bae4-4cb7-b654-6858886fb636.gif)
 
-## 👋 Hola, somos [Garaje de ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 
+https://user-images.githubusercontent.com/82031166/161048262-ac1464df-e704-4fa4-b8e6-a98cbb1fb22e.mp4
+
+
+## 👋 Hola, somos [Garaje de 
+
+https://user-images.githubusercontent.com/82031166/161048262-ac1464df-e704-4fa4-b8e6-a98cbb1fb22e.mp4
+
+ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 
 Conoce cómo trabajamos los proyectos de tecnología y diseño
 [Case Study](https://garajedeideas.com/proyectos/adeslas/)
 
