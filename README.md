@@ -1,3 +1,6 @@
+![Banner](https://user-images.githubusercontent.com/82031166/161051918-e7c7c11f-49f1-4b39-aef0-30033c451636.gif)
+
+
 ## 👋 Hola, somos [Garaje de ideas](www.garajedeideas.com) -> Agencia de tecnología, diseño y data 
 Conoce cómo trabajamos los proyectos de tecnología y diseño
 [Case Study](https://garajedeideas.com/proyectos/adeslas/)
@@ -30,4 +33,3 @@ Pildoras de contenido en castellano para developers en Youtube.
 ## 👉 ¡En Garaje no paramos de crecer! [Únete al equipo](https://bit.ly/garaje-talento)
 
 ## 📫 Contacta con nosotros
-
