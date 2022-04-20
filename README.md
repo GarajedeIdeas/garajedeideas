@@ -30,7 +30,7 @@ Pildoras de contenido en castellano para developers en Youtube.
 ### Y si quieres más... [suscríbete a nuestro canal](https://www.youtube.com/channel/UC2VAkhXrEjlpBqDRMeIKJnA?sub_confirmation=1)
 
 
-## 👉 ¡En Garaje no paramos de crecer! [Únete al equipo](https://bit.ly/garaje-talento)
+## 👉 ¡En Garaje no paramos de crecer! [Únete al equipo](https://bit.ly/garaje-tech-talento)
 
 ## 📫 Conoce más de Garaje
 
