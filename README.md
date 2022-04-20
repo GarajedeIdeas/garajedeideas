@@ -1,5 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/82031166/161051918-e7c7c11f-49f1-4b39-aef0-30033c451636.gif)
 
+## 👉 [Únete al equipo](https://bit.ly/garaje-tech-talento)
+
 
 ## 👋 Hola, somos [Garaje de ideas,](www.garajedeideas.com) una agencia de tecnología, diseño y data 
 Conoce cómo trabajamos los proyectos de tecnología y diseño
@@ -29,8 +31,6 @@ Pildoras de contenido en castellano para developers en Youtube.
 
 ### Y si quieres más... [suscríbete a nuestro canal](https://www.youtube.com/channel/UC2VAkhXrEjlpBqDRMeIKJnA?sub_confirmation=1)
 
-
-## 👉 ¡En Garaje no paramos de crecer! [Únete al equipo](https://bit.ly/garaje-tech-talento)
 
 ## 📫 Conoce más de Garaje
 
