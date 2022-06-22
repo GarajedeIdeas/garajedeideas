@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/82031166/161051918-e7c7c11f-49f1-4b39-aef0-30033c451636.gif)
 
-## 👉 [Únete al equipo](https://bit.ly/garaje-tech-talento)
+## 👉 [Únete al equipo](https://bit.ly/garaje-tech-talento](https://bit.ly/talento-tech-GDI)
 
 
 ## 👋 Hola, somos [Garaje de ideas,](www.garajedeideas.com) una agencia de tecnología, diseño y data 
