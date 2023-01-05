@@ -5,7 +5,7 @@
 
 ## 👋 Hola, somos [Garaje de ideas,](www.garajedeideas.com) una agencia de tecnología, diseño, data y growth 
 Conoce cómo trabajamos los proyectos de tecnología y diseño
--> [Case Study](https://garajedeideas.com/proyectos/adeslas/)
+-> [Case Study](https://garajedeideas.com/proyectos)
 
 
 ## 📺 Echa un vistazo a nuestros eventos para entusiastas de la tecnología!
