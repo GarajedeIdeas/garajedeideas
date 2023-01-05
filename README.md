@@ -3,7 +3,7 @@
 ## 👉 [Únete al equipo](https://bit.ly/garaje-tech-talento)
 
 
-## 👋 Hola, somos [Garaje de ideas,](www.garajedeideas.com) una agencia de tecnología, diseño, data y growth 
+## 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
 Conoce cómo trabajamos los proyectos de tecnología y diseño
 -> [Case Study](https://garajedeideas.com/proyectos)
 
