@@ -5,7 +5,7 @@
 ## 📺 Conoce nuestras iniciativas Tech 🔻
 
 ### 🚀 Garaje Live Coding
-#### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
+#### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/) <a target="_blank"></a>
 
 ```
 An afterwork for code lovers. 
