@@ -35,9 +35,9 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 
 ## 📫 Conoce más de Garaje
 
-[<img align="left" alt="codeSTACKr | linkedin" width="60px" src="https://user-images.githubusercontent.com/82031166/161102051-52a9495e-209b-46b9-9d6d-d483648d3d1e.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="100px" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="codeSTACKr | linkedin" width="100px" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="60px" src="https://user-images.githubusercontent.com/82031166/161102056-e0679566-ea27-4cb8-a7e4-46a53ad4c35f.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="60px" src="https://user-images.githubusercontent.com/82031166/161102055-c35eeabc-4f8b-4d98-af76-7c6bdb71d598.png" />][twitter]
 [<img align="left" alt="codeSTACKr | twitch" width="60px" src="https://user-images.githubusercontent.com/82031166/161102059-d785ced2-049f-4f2f-abbb-9a528c74b709.png" />][twitch]
 
 
