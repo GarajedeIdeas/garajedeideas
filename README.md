@@ -37,8 +37,3 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 * [React Hooks](https://youtube.com/playlist?list=PLTg7E2ObeSjZ_tAj2DTJrpbIFlQnoSvxR) 
 
 ## 👉 [Únete al equipo](https://bit.ly/garaje-tech-talento)
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=garajedeideas&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=garajedeideas&theme=omni&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garajedeideas&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
