@@ -2,6 +2,11 @@
 
 # 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garajedeideas) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/garajedeideas) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/garajedeideas) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@garajedeideas) 
+
 ## 📺 Conoce nuestras iniciativas Tech 🔻
 
 ### 🚀 Garaje Live Coding
@@ -33,16 +38,7 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 
 ## 👉 [Únete al equipo](https://bit.ly/garaje-tech-talento)
 
-## 📫 Conoce más de Garaje
-
-[<img align="left" alt="codeSTACKr | Twitter" width="100px" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="codeSTACKr | linkedin" width="100px" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="60px" src="https://user-images.githubusercontent.com/82031166/161102056-e0679566-ea27-4cb8-a7e4-46a53ad4c35f.png" />][instagram]
-[<img align="left" alt="codeSTACKr | twitch" width="60px" src="https://user-images.githubusercontent.com/82031166/161102059-d785ced2-049f-4f2f-abbb-9a528c74b709.png" />][twitch]
-
-
-[linkedin]: https://www.linkedin.com/company/garajedeideas
-[instagram]: https://www.instagram.com/garaje_de_ideas/
-[twitter]: https://twitter.com/garajedeideas
-[twitch]: https://www.twitch.tv/garajedeideas
-
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=garajedeideas&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=garajedeideas&theme=omni&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=garajedeideas&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
