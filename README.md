@@ -20,6 +20,11 @@ Los miércoles cada dos semanas a las 19h ES - 15h AR.|
 
 ### 💊 Garaje Code Pills
 
+<!-- |[![Garaje Code Pills](https://i.ibb.co/4Frg3QX/Captura-de-pantalla-2023-02-15-a-las-14-03-52.png)](https://livecoding.garajedeideas.com/)
+|:--:|
+|Garaje Code Pills: Videos cortos en nuestro canal de YouTube con contenidos y píldoras de código.
+De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc.
+¡Encuentra dos videos nuevos cada semana!| -->
 
 ```
 Videos cortos en nuestro canal de YouTube con contenidos y píldoras de código.
