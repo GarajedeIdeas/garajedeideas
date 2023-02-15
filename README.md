@@ -13,16 +13,13 @@
 ### 🚀 Garaje Live Coding
 #### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
 
-```
-An afterwork for code lovers. 
-
-Sesiones de código en vivo para compartir las últimas tendencias en tecnología. 
-
-Los miércoles cada dos semanas a las 19h ES - 15h AR.
-
-```
+|[![Garaje Live Coding](https://i.ibb.co/Yjxw23b/Captura-de-pantalla-2023-02-15-a-las-13-51-19.png)](https://livecoding.garajedeideas.com/)
+|:--:|
+|Garaje Live Coding: Sesiones de código en vivo.
+Los miércoles cada dos semanas a las 19h ES - 15h AR.|
 
 ### 💊 Garaje Code Pills
+
 
 ```
 Videos cortos en nuestro canal de YouTube con contenidos y píldoras de código.
