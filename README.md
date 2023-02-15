@@ -2,7 +2,7 @@
 
 # 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garajedeideas) <a target="_blank"></a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garajedeideas)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@garajedeideas) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/garajedeideas) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/garajedeideas) 
@@ -11,7 +11,7 @@
 ## 📺 Conoce nuestras iniciativas Tech 🔻
 
 ### 🚀 Garaje Live Coding
-#### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/) <a target="_blank"></a>
+#### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
 
 ```
 An afterwork for code lovers. 
