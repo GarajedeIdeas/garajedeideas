@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/82031166/161051918-e7c7c11f-49f1-4b39-aef0-30033c451636.gif)
 
-# 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
+## 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garajedeideas)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@garajedeideas) 
@@ -34,7 +34,10 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 ```
 [¡Suscríbete aquí!](https://www.youtube.com/channel/UC2VAkhXrEjlpBqDRMeIKJnA?sub_confirmation=1)
 
-* [Visual JS](https://www.youtube.com/playlist?list=PLTg7E2ObeSja25jqmtjeW0DIgjTB93v1y)
-* [React Hooks](https://youtube.com/playlist?list=PLTg7E2ObeSjZ_tAj2DTJrpbIFlQnoSvxR) 
+**Algunas de nuestras playlists más top:**
+
+|[![Vue 3](https://i.ytimg.com/vi/LJBNmeB2bW4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBoSySDr8rhHV93vN_eZPJnP0doA)](https://www.youtube.com/watch?v=LJBNmeB2bW4&list=PLTg7E2ObeSjaJzUb1G3sB0Lp1QpNl3qmJ) | [![React Hooks](https://i.ytimg.com/vi/i4GgO4vZieg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKxy1YV9Zzj7NTWA5c_nGzsjuNUg)](https://www.youtube.com/watch?v=i4GgO4vZieg&list=PLTg7E2ObeSjYGtrVsZfNLQZrzzuJloK9c)
+|:--:|:--:|
+|VueJS|React JS|
 
 ## 👉 [Únete al equipo](https://bit.ly/garaje-tech-talento)
