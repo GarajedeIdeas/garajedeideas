@@ -53,4 +53,4 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 
 ## 👩‍💻 ¿Quieres formar parte de nuestro #Tech Team? 🔻
 
-### 👉 [Vacantes Top](https://bit.ly/garaje-tech-talento)
+### 👉 [Cool Vacantes](https://bit.ly/garaje-tech-talento)
