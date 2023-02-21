@@ -50,9 +50,7 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 |:--:|:--:|
 |VueJS|React JS|
 
-## 👩‍💻 ¿Quieres formar parte de nuestro #Tech Team? 🔻
-
-### 👉 [Cool Vacantes](https://bit.ly/garaje-tech-talento)
-
-## Snake eating my contribution graph
+### 🐍 ¡Ha aparecido una serpiente salvaje que se está comiendo nuestro gráfico de contribuciones! 🔻
 ![snake gif](https://github.com/GarajedeIdeas/garajedeideas/blob/output/github-contribution-grid-snake.gif)
+
+### 👩‍💻 Para salvarlas, comprueba nuestras vacantes #Tech y no dudes en aplicar ➔ [Let's Go!](https://bit.ly/garaje-tech-talento)
