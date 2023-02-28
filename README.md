@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/82031166/161051918-e7c7c11f-49f1-4b39-aef0-30033c451636.gif)
 
-## 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
+### 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garajedeideas)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@garajedeideas) 
@@ -9,10 +9,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garaje_de_ideas)
 
 
-## 📺 Conoce nuestras iniciativas Tech 🔻
+#### 📺 Conoce nuestras iniciativas Tech 🔻
 
-### 🚀 Garaje Live Coding
-#### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
+##### 🚀 Garaje Live Coding
+##### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
 
 <!-- |[![Garaje Live Coding](https://i.ibb.co/Yjxw23b/Captura-de-pantalla-2023-02-15-a-las-13-51-19.png)](https://livecoding.garajedeideas.com/)
 |:--:|
@@ -26,7 +26,7 @@ Los miércoles cada dos semanas a las 19h ES - 15h AR.
 
 ```
 
-### 💊 Garaje Code Pills
+##### 💊 Garaje Code Pills
 
 <!-- |[![Garaje Code Pills](https://i.ibb.co/4Frg3QX/Captura-de-pantalla-2023-02-15-a-las-14-03-52.png)](https://livecoding.garajedeideas.com/)
 |:--:|
@@ -50,7 +50,7 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 |:--:|:--:|
 |VueJS|React JS|
 
-### 🐍 ¡Ha aparecido una serpiente salvaje que se está comiendo nuestro gráfico de contribuciones! 🔻
+#### 🐍 ¡Ha aparecido una serpiente salvaje que se está comiendo nuestro gráfico de contribuciones! 🔻
 ![snake gif](https://github.com/GarajedeIdeas/garajedeideas/blob/output/github-contribution-grid-snake.gif)
 
-### 👩‍💻 Para salvarlas, comprueba nuestras vacantes #Tech y no dudes en aplicar ➔ [Let's Go!](https://bit.ly/garaje-tech-talento)
+#### 👩‍💻 Para salvarlas, comprueba nuestras vacantes #Tech y no dudes en aplicar ➔ [Let's Go!](https://bit.ly/garaje-tech-talento)
