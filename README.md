@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/82031166/161051918-e7c7c11f-49f1-4b39-aef0-30033c451636.gif)
 
-### 👋 Hola, somos [Garaje de ideas,](https://garajedeideas.com/) una agencia de tecnología, diseño, data y growth 
+### 👋 Hola, somos [Garaje de Ideas](https://garajedeideas.com/) , una agencia de tecnología, diseño, data y growth 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garajedeideas)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@garajedeideas) 
