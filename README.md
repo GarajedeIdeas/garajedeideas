@@ -54,3 +54,7 @@ De la mano de grandes referentes del sector Tech: React, Python, JavaScript, etc
 ![snake gif](https://github.com/GarajedeIdeas/garajedeideas/blob/output/github-contribution-grid-snake.gif)
 
 #### 👩‍💻 Para salvarlas, comprueba nuestras vacantes #Tech y no dudes en aplicar ➔ [Let's Go!](https://bit.ly/garaje-tech-talento)
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lo5u3nazbkrfwgj302fl" alt="trackgit-views" />
+</a>
