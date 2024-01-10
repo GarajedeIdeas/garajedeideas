@@ -22,7 +22,7 @@ Los miércoles cada dos semanas a las 19h ES - 15h AR.| -->
 ```
 Sesiones de código en vivo.
 
-Los miércoles cada dos semanas a las 19h ES - 15h AR.
+Un miércoles al mes a las 19h ES - 15h AR.
 
 ```
 
