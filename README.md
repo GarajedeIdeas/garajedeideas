@@ -12,7 +12,7 @@
 #### 📺 Conoce nuestras iniciativas Tech 🔻
 
 ##### 🚀 Garaje Live Coding
-##### Apúntate a nuestro próximo Live Coding [AQUÍ](https://lnkd.in/d2YRNnXN)
+##### Apúntate a nuestro próximo Live Coding [AQUÍ](https://livecoding.garajedeideas.com/)
 
 <!-- |[![Garaje Live Coding](https://i.ibb.co/Yjxw23b/Captura-de-pantalla-2023-02-15-a-las-13-51-19.png)](https://livecoding.garajedeideas.com/)
 |:--:|
